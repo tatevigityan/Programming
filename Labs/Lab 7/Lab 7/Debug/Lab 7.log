@@ -1,0 +1,4 @@
+﻿  Lab 7.cpp
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 7\Lab 7\Lab 7.cpp(84,10): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "boolean *"
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 7\Lab 7\Lab 7.cpp(84,10): message : рекомендуется использовать "%hhd" в строке форматирования
+  Lab 7.vcxproj -> C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 7\Debug\Lab 7.exe

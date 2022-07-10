@@ -1,0 +1,14 @@
+﻿  Lab 4.cpp
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(9,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(13,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(16,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(23,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(37,79): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(37,70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(37,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(37,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(40,88): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(40,79): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(40,70): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Lab 4\Lab 4.cpp(40,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Lab 4.vcxproj -> C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 4\Debug\Lab 4.exe

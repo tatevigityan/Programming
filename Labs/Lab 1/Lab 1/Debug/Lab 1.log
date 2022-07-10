@@ -1,0 +1,8 @@
+﻿  Lab 1.cpp
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 1\Lab 1\Lab 1.cpp(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 1\Lab 1\Lab 1.cpp(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 1\Lab 1\Lab 1.cpp(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 1\Lab 1\Lab 1.cpp(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 1\Lab 1\Lab 1.cpp(27,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 1\Lab 1\Lab 1.cpp(30,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab 1.vcxproj -> C:\Users\tatev\OneDrive\Рабочий стол\Programming\Labs\Lab 1\Debug\Lab 1.exe
